@@ -4,13 +4,13 @@
     <dict>
         <key>Label</key>
         <string>stackoverflowfanatic.modocache.github</string>
-        <key>Program</key>
-        <string>/usr/bin/osascript</string>
         <key>ProgramArguments</key>
         <array>
             <string>PROGRAM_PATH</string>
         </array>
+        <key>RunAtLoad</key>
+        <true/>
         <key>StartInterval</key>
-        <integer>60</integer>
+        <integer>43200</integer>
     </dict>
 </plist>
