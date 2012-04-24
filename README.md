@@ -1,4 +1,4 @@
-# Stack Overflow Fanatic
+# Stack Overflow Fanatic [![endorse](http://api.coderwall.com/modocache/endorsecount.png)](http://coderwall.com/modocache)
 
 A simple shellscript which registers a launchd process to
 open a series of Stack Exchange sites every 24 hours.
