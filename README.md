@@ -12,3 +12,7 @@ following badges:
 
     $ git clone git@github.com:modocache/stackoverflow-fanatic.git
     $ ./stackoverflow-fanatic/install.sh
+
+### Uninstall the launchd process
+
+    $ launchctl remove ~/Library/LaunchAgents/stackoverflowfanatic.modocache.github.plist 
